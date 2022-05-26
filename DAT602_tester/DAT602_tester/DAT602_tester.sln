@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAT602_tester", "DAT602_tester.csproj", "{F37635FF-80EC-4A2A-BA39-379F714913BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F37635FF-80EC-4A2A-BA39-379F714913BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F37635FF-80EC-4A2A-BA39-379F714913BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F37635FF-80EC-4A2A-BA39-379F714913BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F37635FF-80EC-4A2A-BA39-379F714913BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5131009-A477-4C2E-BB2F-D42BBF6C9097}
+	EndGlobalSection
+EndGlobal
